@@ -146,11 +146,6 @@ def sortby(tree, col, descending):
 
 cotacts_header = ['First Name', 'Surname', 'Number', 'Staff ID']
 cotacts_list = [
-            ('Delene', 'Potgieter', '0834154965', '0123456789'),
-            ('Eben', 'Potgieter', '0834155024', '02'),
-            ('Bennett', 'Potgieter', '+27810394959', '03'),
-            ('Thomas', 'Potgieter', '0834155555', '04'),
-            ('Kate', 'Potgieter', '0834154444', '05'),
             ('Chevy', 'air', '1234567890', '06')
 ]
 
