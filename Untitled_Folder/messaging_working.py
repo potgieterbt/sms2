@@ -76,7 +76,7 @@ def save_message():
 def send_sms(number ='', message = ''):
     modem = sms.Modem('/dev/ttyUSB0')
     message = 'hi'
-    number = "+27810394959"
+    number = ""
     modem.send(number, message)
     if modem.ok == True:
         state0 = "sent"
